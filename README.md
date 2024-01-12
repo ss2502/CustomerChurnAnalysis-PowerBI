@@ -1,5 +1,5 @@
-Customer Churn Analysis Dashboard
-Welcome to the Customer Churn Analysis Dashboard project! This dashboard, created in Power BI, offers valuable insights into customer behavior, identifying potential churn risks and providing a comprehensive view of customer segments.
+Customer Churn Analysis Dashboard- **link - https://app.powerbi.com/groups/me/reports/1cf01430-f5d0-46e4-b141-279a74400ecf/ReportSection?experience=power-bi&redirectedFromSignup=1%3Fru%3Dhttps:%2F%2Fapp.powerbi.com%2Fgroups%2Fme%2Freports%2F1cf01430-f5d0-46e4-b141-279a74400ecf%2FReportSection%3Fexperience%3Dpower-bi%26redirectedFromSignup%3D1,1
+**Welcome to the Customer Churn Analysis Dashboard project! This dashboard, created in Power BI, offers valuable insights into customer behavior, identifying potential churn risks and providing a comprehensive view of customer segments.
 
 Project Overview
 The project utilized Python to calculate churn percentages and customer segments, enhancing the analytical capabilities of the dashboard.
